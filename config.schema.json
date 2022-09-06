@@ -10,7 +10,7 @@
       "name": {
         "title": "Name",
         "type": "string",
-        "default": "Sileno City",
+        "default": "Sileno Life",
         "required": true
       },
 	"manufacturer": {
@@ -22,7 +22,7 @@
 	  "model": {
         "title": "Mower Model",
         "type": "string",
-        "default": "Sileno City 500",
+        "default": "Sileno Life 750",
         "required": true
       },
 	 "mowingDurationSeconds": {
