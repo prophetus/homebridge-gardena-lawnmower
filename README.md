@@ -5,7 +5,7 @@ The connection is implemented in the form of a fan, as Homekit does not yet supp
 
 ## Usage
 
-`npm install -g homebridge-gardena-lawnmower`
+Orginal was installed by: `npm install -g homebridge-gardena-lawnmower`
 
 ## Configuration
 You can also configure this plugin via [ConfigUI-X's settings](https://github.com/oznu/homebridge-config-ui-x/wiki/Developers:-Plugin-Settings-GUI) feature.
